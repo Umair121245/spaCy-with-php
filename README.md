@@ -13,9 +13,9 @@ A Python script for extracting skills and experience from resumes using spaCy an
 Need PHP
 Need Python
 
-#Examples
+##Examples
  Input: "Over 8 years of professional exposure in JavaSc..."
  Output: Extracted Skills: ['React', 'JS',....]
 
-#Contact Information
+##Contact Information
 For questions or feedback, contact umairkhann092@gmail.com.
